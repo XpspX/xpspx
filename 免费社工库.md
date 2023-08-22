@@ -193,7 +193,7 @@ TMDSGK名下 之前使用和推广很多的机器人 @sgk2022_11_30bot 和 @TMDS
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号|公司或店铺名称
 
-地址链接：[@AISGK_Bot](https:// t.me/aishegongkubot?start=AISGK_MNCF45X4)
+地址链接：[@AISGK_Bot](https://t.me/aishegongkubot?start=AISGK_MNCF45X4)
 
 
 
